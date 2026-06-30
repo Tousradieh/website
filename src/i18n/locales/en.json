@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Leader in Radio Communications",
+    "title": "Smart Communication Solutions for a Connected Future",
+    "subtitle": "With over two decades of experience, Tous Radieh delivers design, implementation, and support for radio and network systems across industries.",
+    "ctaPrimary": "Request Consultation",
+    "ctaSecondary": "View Services"
+  },
+  "about": {
+    "label": "About Us",
+    "title": "Tous Radieh, Your Trusted Communications Partner",
+    "description": "We are a team of engineers and communications specialists who build reliable, secure infrastructure for our clients using international standards and deep technical expertise.",
+    "points": {
+      "experience": "Over 20 years of industry experience",
+      "quality": "Quality assurance with 24/7 support",
+      "innovation": "Powered by modern global technologies"
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "Our Expert Services",
+    "subtitle": "From design to deployment and maintenance, we cover every radio and network communication need.",
+    "items": {
+      "radio": {
+        "title": "Radio Systems",
+        "description": "Professional radio network design and deployment for organizations and industries."
+      },
+      "network": {
+        "title": "Network Infrastructure",
+        "description": "Implementation and optimization of network infrastructure to the highest standards."
+      },
+      "support": {
+        "title": "Technical Support",
+        "description": "Maintenance, troubleshooting, and 24/7 support for communication equipment."
+      },
+      "consulting": {
+        "title": "Consulting & Design",
+        "description": "Custom solutions tailored to each organization's operational requirements."
+      }
+    }
+  },
+  "stats": {
+    "projects": "Successful Projects",
+    "clients": "Active Clients",
+    "years": "Years Experience",
+    "support": "Support"
+  },
+  "contact": {
+    "label": "Contact Us",
+    "title": "Ready to Work With You",
+    "description": "Reach out for a free consultation or more information about our services.",
+    "phone": "+98 21 1234 5678",
+    "email": "info@tousradieh.com",
+    "address": "Tehran, Iran",
+    "cta": "Send Message"
+  },
+  "footer": {
+    "tagline": "Tous Radieh — Leading radio communication solutions",
+    "rights": "All rights reserved.",
+    "company": "Tous Radieh Co."
+  },
+  "language": {
+    "fa": "فارسی",
+    "en": "English"
+  }
+}
